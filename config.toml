@@ -33,6 +33,11 @@ theme = "osc-theme"
             anchor = "organizations"
 
         [[params.navigation.link]]
+            text = "Companies"
+            link = "companies"
+            anchor = "companies"
+
+        [[params.navigation.link]]
             text = "Projects"
             link = "projects"
             anchor = "projects"
